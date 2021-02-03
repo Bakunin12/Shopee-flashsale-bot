@@ -15,7 +15,7 @@
     "Sale",
     "Bot"
   ],
-  "author": "MRHRTZ",
+  "author": "nihilmbca",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
